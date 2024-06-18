@@ -1,4 +1,4 @@
- <h1 align="center">Hi MUSTAQEEM rajput</h1>
+ <h1 align="center">Hi I am MUSTAQEEM rajput</h1>
 
 - 🔭 I’m currently working on Data analysis
 - 🌱 I’m currently learning power- bi
